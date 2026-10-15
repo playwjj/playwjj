@@ -19,4 +19,4 @@ Independent developer building experimental products with AI and the Cloudflare 
 
 ## 💻 Stack
 
-`Cloudflare Workers` `D1` `Pages` `Nuxt.js` `Vue` `TypeScript` `Python` `Workers AI`
+`Cloudflare Workers` `D1` `Pages` `Workers AI` `Nuxt.js` `Vue` `TypeScript` `Node.js` `Python` `Docker` `Tailwind CSS`
