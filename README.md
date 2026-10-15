@@ -1,4 +1,4 @@
-# Hi, I'm Deng 👋
+# Hi there 👋
 
 Independent developer building experimental products with AI and the Cloudflare stack.
 
