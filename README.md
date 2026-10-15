@@ -20,7 +20,3 @@ Independent developer building experimental products with AI and the Cloudflare 
 ## 💻 Stack
 
 `Cloudflare Workers` `D1` `Pages` `Nuxt.js` `Vue` `TypeScript` `Python` `Workers AI`
-
----
-
-📍 Wuhan, China
